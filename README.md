@@ -1,7 +1,7 @@
 <h1 align="center">(˶ᵔ ᵕ ᵔ˶)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yman;Bonjour%2C+je+suis+Yman;Hola%2C+soy+Yman;Ciao%2C+sono+Yman;Hallo%2C+ich+bin+Yman;Ol%C3%A1%2C+eu+sou+Yman;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Yman%E3%81%A7%E3%81%99;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Yman%EC%9E%85%EB%8B%88%EB%8B%A4;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFYman;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Yman;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+Yman;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yman;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Yman%E3%81%A7%E3%81%99;Bonjour%2C+je+suis+Yman;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Yman%EC%9E%85%EB%8B%88%EB%8B%A4;Hola%2C+soy+Yman;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFYman;Ciao%2C+sono+Yman;Hallo%2C+ich+bin+Yman;Ol%C3%A1%2C+eu+sou+Yman;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Yman;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+Yman;Kumusta%2C+ako+si+Yman;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!--
