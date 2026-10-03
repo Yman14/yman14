@@ -24,13 +24,13 @@
 ---
 
 ### 📊 Auto-Detected Languages
-*Languages used in my public repos on this account — not a full picture of my stack*
+<!--*Languages used in my public repos on this account — not a full picture of my stack* -->
 <p align="center">
   <img height="165" src="https://github-readme-stats-amber-delta-hepegnh15v.vercel.app/api/top-langs/?username=yman14&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🛠️ Primary Stack
-*The stack I actually work with day-to-day (company/private work not reflected).*
+<!-- *The stack I actually work with day-to-day (company/private work not reflected).*-->
 
 **Backend:** Kotlin + Spring Boot + PostgreSQL, containerized with Docker
 <p>
@@ -71,30 +71,30 @@
 ### 📌 Featured Project
 **[Project Name](https://github.com/yman14/project-name)** — one-line description of what it does and what stack it uses.
 -->
-
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-amber-delta-hepegnh15v.vercel.app/api?username=yman14&show_icons=true&theme=tokyonight" alt="yman14's GitHub stats" />
 </p>
 <!-- https://github-readme-stats-amber-delta-hepegnh15v.vercel.app/api?username=yman14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true -->
-### 🏆 Trophies
+<!--### 🏆 Trophies
 <p align="center">
   <img src="https://github-trophies-self-deploy-ten.vercel.app/?username=yman14&theme=dark_lover&no-frame=true" alt="GitHub Trophies" />
 </p>
-
+<!--
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yman14&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 <!--
   👀 PROFILE VIEW COUNTER — optional, uncomment if you want it.
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yman14&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 -->
-
+<!--
 ---
 <p align="center"><i>This README is powered by self-hosted widgets ⚙️</i></p>
 
